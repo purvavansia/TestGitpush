@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
     }
     private void TestGit(){
 
-        int a=10;
-        String name = "purva";
+        int i=10;
+        String name="purva";
     }
 }
